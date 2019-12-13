@@ -204,3 +204,6 @@
  - 16年度最火课程TOP 10免费试听：https://www.julyedu.com/sale/christmas
  - 如何学习数据科学、机器学习与深度学习（附学习路线）：http://blog.csdn.net/v_july_v/article/details/54561427
 - 持续更新..
+
+
+zd
